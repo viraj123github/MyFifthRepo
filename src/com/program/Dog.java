@@ -8,6 +8,7 @@ public class Dog {
 		System.out.println("jump");
         System.out.println("nacing");
 		System.out.println("enjoying");
+		System.out.println("changes now");
 
 	}
 
