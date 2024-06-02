@@ -6,6 +6,7 @@ public class Dog {
 		System.out.println("bark");
 		System.out.println("eat");
 		System.out.println("jump");
+        System.out.println("nacing");
 
 	}
 
